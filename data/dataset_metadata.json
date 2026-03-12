@@ -1,6 +1,6 @@
 {
   "source": "arXiv API",
-  "collection_timestamp_utc": "2026-03-12T10:18:35Z",
+  "collection_timestamp_utc": "2026-03-12T12:09:05Z",
   "categories": [
     "cs.LG",
     "cs.CL",
@@ -9,15 +9,15 @@
   ],
   "year_range": {
     "start": 2015,
-    "end": 2026
+    "end": 2025
   },
   "corpus_size": 15000,
-  "average_abstract_length_words": 168.31,
+  "average_abstract_length_words": 169.89,
   "category_counts": {
-    "cs.LG": 4621,
-    "cs.CL": 2234,
-    "cs.AI": 1921,
-    "stat.ML": 1210
+    "cs.LG": 4335,
+    "cs.CL": 2144,
+    "cs.AI": 1827,
+    "stat.ML": 1156
   },
   "fields": [
     "paper_id",
@@ -30,6 +30,7 @@
     "published_date",
     "updated_date",
     "published_year",
+    "doi",
     "source",
     "entry_url",
     "pdf_url"
