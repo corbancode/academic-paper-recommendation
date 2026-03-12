@@ -1,0 +1,37 @@
+{
+  "source": "arXiv API",
+  "collection_timestamp_utc": "2026-03-12T10:18:35Z",
+  "categories": [
+    "cs.LG",
+    "cs.CL",
+    "cs.AI",
+    "stat.ML"
+  ],
+  "year_range": {
+    "start": 2015,
+    "end": 2026
+  },
+  "corpus_size": 15000,
+  "average_abstract_length_words": 168.31,
+  "category_counts": {
+    "cs.LG": 4621,
+    "cs.CL": 2234,
+    "cs.AI": 1921,
+    "stat.ML": 1210
+  },
+  "fields": [
+    "paper_id",
+    "arxiv_id",
+    "title",
+    "abstract",
+    "authors",
+    "primary_category",
+    "all_categories",
+    "published_date",
+    "updated_date",
+    "published_year",
+    "source",
+    "entry_url",
+    "pdf_url"
+  ]
+}
