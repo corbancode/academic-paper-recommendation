@@ -1,0 +1,26 @@
+{
+  "source": "OpenAlex API",
+  "enrichment_timestamp_utc": "2026-03-13T05:03:13Z",
+  "input_records": 15000,
+  "matched_by_doi": 1230,
+  "matched_by_title": 13621,
+  "unmatched": 148,
+  "api_errors_skipped": 1,
+  "match_rate": 0.9901,
+  "title_match_threshold": 0.8,
+  "fields_added": [
+    "openalex_id",
+    "openalex_title",
+    "openalex_publication_year",
+    "referenced_works",
+    "cited_by_count",
+    "openalex_match_status",
+    "openalex_title_match_score",
+    "incoming_citations_in_corpus",
+    "incoming_citation_count_in_corpus",
+    "relevant_citation_count_in_corpus"
+  ],
+  "average_referenced_works": 9.74,
+  "average_incoming_citations_in_corpus": 0.15,
+  "matched_records_with_incoming_citations": 1019
+}
