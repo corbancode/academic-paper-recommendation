@@ -1,0 +1,11 @@
+{
+  "generated_timestamp_utc": "2026-03-13T22:55:58Z",
+  "input_records": 15000,
+  "candidate_query_target": 250,
+  "min_relevant_citations": 3,
+  "final_query_count": 250,
+  "final_qrel_count": 1478,
+  "average_relevant_docs_per_query": 5.91,
+  "random_seed": 70,
+  "relevance_source": "citation"
+}
