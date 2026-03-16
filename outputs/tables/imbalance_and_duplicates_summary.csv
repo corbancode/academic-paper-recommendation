@@ -1,0 +1,4 @@
+metric,value
+category_imbalance_ratio_max_over_min,3.75
+duplicate_titles_exact_count,4.0
+duplicate_doi_exact_count,4.0

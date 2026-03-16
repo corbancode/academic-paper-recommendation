@@ -1,0 +1,6 @@
+metric,value
+num_queries,250.0
+num_qrels_pairs,1478.0
+avg_relevant_docs_per_query,5.91
+median_relevant_docs_per_query,4.0
+queries_with_<=3_relevant_docs,84.0

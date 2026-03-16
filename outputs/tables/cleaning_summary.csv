@@ -1,0 +1,5 @@
+metric,value
+raw_records,15000.0
+records_after_cleaning_rules,15000.0
+dropped_by_cleaning_rules,0.0
+drop_rate_percent,0.0

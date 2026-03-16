@@ -1,0 +1,6 @@
+metric,value
+matched_by_doi,1230.0
+matched_by_title,13621.0
+unmatched,148.0
+api_errors_skipped,1.0
+match_rate,0.9901
