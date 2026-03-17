@@ -4,4 +4,12 @@ channels:
 dependencies:
   - python=3.11
   - ipykernel
+  - numpy=1.26.4
+  - pandas
+  - matplotlib
+  - scikit-learn
   - pip
+  - pip:
+      - torch==2.2.2
+      - transformers==4.46.3
+      - sentence-transformers==3.3.1
