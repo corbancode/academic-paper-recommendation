@@ -1,0 +1,21 @@
+{
+  "best_sbert_model": "all-MiniLM-L6-v2",
+  "selection_rule": "best ndcg@10, then lowest latency",
+  "query_count": 80,
+  "best_row": {
+    "dense_model": "all-MiniLM-L6-v2",
+    "query_count": 80,
+    "dense_build_seconds": 41.799176707994775,
+    "latency_seconds": 0.017318590148170186,
+    "mrr": 0.24726665124766312,
+    "precision@5": 0.19249999999999998,
+    "recall@5": 0.22062184343434343,
+    "ndcg@5": 0.18790157851739536,
+    "precision@10": 0.14625000000000002,
+    "recall@10": 0.3221575126262627,
+    "ndcg@10": 0.2271274718136839,
+    "precision@20": 0.0925,
+    "recall@20": 0.39437500000000003,
+    "ndcg@20": 0.25588415127469444
+  }
+}

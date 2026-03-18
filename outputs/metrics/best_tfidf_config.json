@@ -1,0 +1,20 @@
+{
+  "best_tfidf_ngram_range": "(1, 2)",
+  "selection_rule": "best ndcg@10, then lowest latency",
+  "query_count": 80,
+  "best_row": {
+    "tfidf_ngram_range": "(1, 2)",
+    "query_count": 80,
+    "latency_seconds": 0.028767994912232097,
+    "mrr": 0.22427665183880002,
+    "precision@5": 0.1275,
+    "recall@5": 0.1540609217171717,
+    "ndcg@5": 0.1360135865445166,
+    "precision@10": 0.11000000000000001,
+    "recall@10": 0.2563683712121212,
+    "ndcg@10": 0.18098956317601433,
+    "precision@20": 0.06999999999999999,
+    "recall@20": 0.3164267676767677,
+    "ndcg@20": 0.2041050545006234
+  }
+}

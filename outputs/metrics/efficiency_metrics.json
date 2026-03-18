@@ -1,0 +1,12 @@
+{
+  "tfidf_index_time_seconds": 0.9280418749985984,
+  "dense_index_time_seconds": 47.04335858300328,
+  "average_tfidf_latency_seconds": 0.009063725839892869,
+  "average_sbert_latency_seconds": 0.022306325479352383,
+  "average_hybrid_latency_seconds": 0.057680493440188,
+  "average_two_stage_latency_seconds": 0.03843048114830162,
+  "hybrid_alpha": 0.5,
+  "two_stage_candidate_size": 100,
+  "sbert_model": "all-MiniLM-L6-v2",
+  "tfidf_ngram_range": "(1, 2)"
+}

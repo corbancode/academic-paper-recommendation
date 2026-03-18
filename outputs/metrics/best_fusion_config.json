@@ -1,0 +1,36 @@
+{
+  "selection_rule": "best ndcg@10, then lowest latency",
+  "query_count": 80,
+  "best_hybrid_alpha": 0.5,
+  "best_two_stage_candidate_size": 100,
+  "best_hybrid_alpha_row": {
+    "hybrid_alpha": 0.5,
+    "query_count": 80.0,
+    "latency_seconds": 0.05448797027438559,
+    "mrr": 0.2644228608522788,
+    "precision@5": 0.20750000000000002,
+    "recall@5": 0.24347064393939394,
+    "ndcg@5": 0.20357033053525928,
+    "precision@10": 0.1525,
+    "recall@10": 0.3406723484848485,
+    "ndcg@10": 0.24281564087959867,
+    "precision@20": 0.09625000000000002,
+    "recall@20": 0.4110069444444445,
+    "ndcg@20": 0.27142134259937734
+  },
+  "best_two_stage_candidate_row": {
+    "two_stage_candidate_size": 100.0,
+    "query_count": 80.0,
+    "latency_seconds": 0.037422766163035706,
+    "mrr": 0.2503971123102583,
+    "precision@5": 0.205,
+    "recall@5": 0.2412121212121212,
+    "ndcg@5": 0.1988845260729122,
+    "precision@10": 0.14125000000000001,
+    "recall@10": 0.3249005681818182,
+    "ndcg@10": 0.22859122168002574,
+    "precision@20": 0.09437500000000001,
+    "recall@20": 0.4171180555555555,
+    "ndcg@20": 0.2650501231891534
+  }
+}
