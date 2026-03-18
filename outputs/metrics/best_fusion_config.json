@@ -6,7 +6,7 @@
   "best_hybrid_alpha_row": {
     "hybrid_alpha": 0.5,
     "query_count": 80.0,
-    "latency_seconds": 0.05448797027438559,
+    "latency_seconds": 0.05733332757408789,
     "mrr": 0.2644228608522788,
     "precision@5": 0.20750000000000002,
     "recall@5": 0.24347064393939394,
@@ -21,7 +21,7 @@
   "best_two_stage_candidate_row": {
     "two_stage_candidate_size": 100.0,
     "query_count": 80.0,
-    "latency_seconds": 0.037422766163035706,
+    "latency_seconds": 0.03989194166315428,
     "mrr": 0.2503971123102583,
     "precision@5": 0.205,
     "recall@5": 0.2412121212121212,

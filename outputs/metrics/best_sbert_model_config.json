@@ -5,8 +5,8 @@
   "best_row": {
     "dense_model": "all-MiniLM-L6-v2",
     "query_count": 80,
-    "dense_build_seconds": 41.799176707994775,
-    "latency_seconds": 0.017318590148170186,
+    "dense_build_seconds": 84.30326183300349,
+    "latency_seconds": 0.030887900549896586,
     "mrr": 0.24726665124766312,
     "precision@5": 0.19249999999999998,
     "recall@5": 0.22062184343434343,

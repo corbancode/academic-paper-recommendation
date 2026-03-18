@@ -47,6 +47,17 @@ Inside `academic-paper-recommendation.ipynb`, the implementation and evaluation 
 - recommendation evaluation with standard IR metrics
 - embedding geometry analysis
 
+### Experimental Category Mapping
+
+For modeling and embedding-geometry analysis, papers are mapped into five experimental categories:
+- `cs.LG`
+- `cs.CL`
+- `cs.AI`
+- `stat.ML`
+- `cross_listed_non_primary`
+
+If a paper's `primary_category` is not one of the four target categories above, it is assigned to `cross_listed_non_primary` through an `experiment_category` field during preprocessing. In this project context, that label means the paper is cross-listed with at least one target category in its full category list, but none of the four target categories is the primary category.
+
 ## Important Reproducibility Guidance
 
 For consistent evaluation results in `academic-paper-recommendation.ipynb`, do **not** re-run:
