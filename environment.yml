@@ -1,13 +1,15 @@
 name: msc-paper-recommendation
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.11
   - ipykernel
   - numpy=1.26.4
+  - scipy=1.16.0
+  - scikit-learn=1.7.1
   - pandas
   - matplotlib
-  - scikit-learn
   - pip
   - pip:
       - torch==2.2.2
