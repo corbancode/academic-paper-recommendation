@@ -5,7 +5,7 @@
   "best_row": {
     "tfidf_ngram_range": "(1, 2)",
     "query_count": 80,
-    "latency_seconds": 0.026241834862560154,
+    "latency_seconds": 0.023379834873958318,
     "mrr": 0.22427665183880002,
     "precision@5": 0.1275,
     "recall@5": 0.1540609217171717,
